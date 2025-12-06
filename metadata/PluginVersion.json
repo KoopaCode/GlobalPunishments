@@ -1,5 +1,19 @@
 {
   "production": "1.0.0",
-  "beta": "0.0.0-b1",
-  "dev": "0.0.0-dev3"
+  "beta": "1.0.0",
+  "dev": "1.0.0",
+  "changelog": {
+    "1.0.0": [
+      "Initial release",
+      "Global ban system with cross-server enforcement",
+      "Advanced investigation tools (IP tracking, alt detection)",
+      "Discord bot with ticket system",
+      "Complete audit logging",
+      "Appeal system",
+      "Staff analytics",
+      "Evidence-based review process"
+    ]
+  },
+  "minimum_api_version": "1.19",
+  "recommended_api_version": "1.21"
 }
